@@ -1,4 +1,4 @@
-# 10-no-lab-ten
+# ![CF](http://i.imgur.com/7v5ASc8.png) 10 No Lab Ten
 Hello 401n6.
 
 Lab ten is usually where we introduce LinkedLists. We've already learned a lot
